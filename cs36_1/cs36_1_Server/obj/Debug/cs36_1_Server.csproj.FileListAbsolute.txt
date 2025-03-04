@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\cs36_1_Server\bin\Debug\cs36_1_Server.exe.config
+C:\Users\PC\source\repos\cs36_1_Server\bin\Debug\cs36_1_Server.exe
+C:\Users\PC\source\repos\cs36_1_Server\bin\Debug\cs36_1_Server.pdb
+C:\Users\PC\source\repos\cs36_1_Server\obj\Debug\cs36_1_Server.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\cs36_1_Server\obj\Debug\cs36_1_Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\cs36_1_Server\obj\Debug\cs36_1_Server.exe
+C:\Users\PC\source\repos\cs36_1_Server\obj\Debug\cs36_1_Server.pdb
